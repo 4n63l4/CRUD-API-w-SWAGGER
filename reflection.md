@@ -1,0 +1,1 @@
+API documentation is important because it helps developers understand how to use your API correctly. It explains what each part of the API does, what kind of data it needs, and what kind of response it gives back.
